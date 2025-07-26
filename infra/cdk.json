@@ -15,6 +15,16 @@
     ]
   },
   "context": {
+    "environments": {
+      "dev": {
+        "account": "526451195164",
+        "region": "us-east-1"
+      },
+      "prod": {
+        "account": "526451195164",
+        "region": "us-east-1"
+      }
+    },
     "@aws-cdk/aws-lambda:recognizeLayerVersion": true,
     "@aws-cdk/core:checkSecretUsage": true,
     "@aws-cdk/core:target-partitions": [
