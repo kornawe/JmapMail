@@ -18,11 +18,11 @@
     "environments": {
       "dev": {
         "account": "526451195164",
-        "region": "us-east-1"
+        "region": "us-east-2"
       },
       "prod": {
         "account": "526451195164",
-        "region": "us-east-1"
+        "region": "us-east-2"
       }
     },
     "@aws-cdk/aws-lambda:recognizeLayerVersion": true,
